@@ -1,0 +1,17 @@
+{
+  "name": "happy-password",
+  "version": "1.0.0",
+  "description": "Playing around with RambdaJS and creating a password criteria matcha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominic Santo",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^16.5.0",
+    "http-server": "^0.11.1",
+    "rambda": "^3.0.1",
+    "requirejs": "^2.3.6"
+  }
+}
