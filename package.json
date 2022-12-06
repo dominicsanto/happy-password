@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "browserify": "^16.5.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "rambda": "^3.0.1",
     "requirejs": "^2.3.6"
   }
